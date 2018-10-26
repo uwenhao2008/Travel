@@ -1,6 +1,6 @@
 # travel
 
-> A Vue.js project
+使用vuejs仿写去哪手机端效果
 
 ## Build Setup
 
